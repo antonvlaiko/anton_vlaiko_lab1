@@ -1,0 +1,15 @@
+F:\2 semestr\OP\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+F:\2 semestr\OP\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+F:\2 semestr\OP\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+F:\2 semestr\OP\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+F:\2 semestr\OP\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+F:\2 semestr\OP\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+F:\2 semestr\OP\Lab1\Lab1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\2 semestr\OP\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.AssemblyReference.cache
+F:\2 semestr\OP\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+F:\2 semestr\OP\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+F:\2 semestr\OP\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+F:\2 semestr\OP\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+F:\2 semestr\OP\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+F:\2 semestr\OP\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+F:\2 semestr\OP\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
